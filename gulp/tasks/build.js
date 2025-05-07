@@ -13,7 +13,6 @@ gulp.task("previewDist", function () {
     server: {
       baseDir: "dist",
     },
-    open: false,
   });
 });
 
